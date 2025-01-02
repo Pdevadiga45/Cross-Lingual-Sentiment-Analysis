@@ -35,4 +35,3 @@ MultiLingual Dataset Used:
   - `plot_language_performance(results):`
     - Highlights model performance for different languages in the dataset.
 
-## Acknowledgments
