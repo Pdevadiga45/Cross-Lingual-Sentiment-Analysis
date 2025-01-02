@@ -28,9 +28,9 @@ This project involves fine-tuning pre-trained multilingual transformer models to
 - **1. Data Processing**
   
  -categorize_files(directory):
-
   -Categorizes files into train, dev, and test datasets.
   -Organizes test datasets by granularity (sentence/text) and language.
+  
  -process_data(filepaths, tokenizer, label_map):
   -Reads files, tokenizes text, and maps labels to integers.
   -Processes data in batches to reduce memory overhead.
