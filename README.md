@@ -1,27 +1,5 @@
 # Cross-Lingual-Sentiment-Analysis
 
-This project involves fine-tuning pre-trained multilingual transformer models to classify text data. The pipeline includes data preprocessing, model training, evaluation, and visualization of performance metrics.
-
-## Project Overview
-
-### Key Features:
-- **Multi-level Data Categorization:**
-  - The code organizes files into `train`, `dev`, and `test` datasets, with further granularity into `sentence`- and `text`-level categories for test data.
-
-- **Data Processing and Tokenization:**
-  - Text data is processed into tokenized datasets using a pre-trained tokenizer for transformer models.
-  - Labels are mapped to integer values for compatibility with the model.
-
-- **Model Fine-Tuning:**
-  - Pre-trained transformer models (e.g., BERT) are fine-tuned using the `Trainer` API from Hugging Face Transformers.
-  - Training employs features like gradient accumulation, mixed precision (FP16), and early stopping.
-
-- **Evaluation:**
-  - Models are evaluated on test datasets with metrics such as F1 Score and Accuracy.
-
-- **Visualization:**
-  - Performance metrics are visualized through bar plots, comparing models across different levels (sentence/text) and languages.
- 
 ### Code Breakdown
 
 - **Data Processing**  
