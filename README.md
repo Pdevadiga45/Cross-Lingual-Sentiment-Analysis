@@ -1,7 +1,7 @@
 # Cross Lingual Sentiment Analysis
 
-MultiLingual Dataset Used: MultiEmo, a new benchmark dataset for multilingual sentiment analysis tasks, includes 11 languages: `Polish`, `English`, `Chinese`, `Italian`, `Japanese`, `Russian`, `German`, `Spanish`, `French`, `Dutch`, and `Portuguese`. The collection contains consumer reviews from four domains: medicine, hotels, products, and universities.
-(https://clarin-pl.eu/dspace/handle/11321/798)
+MultiLingual Dataset Used: 
+[MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo)
 
 ### Code Breakdown
 
@@ -36,4 +36,3 @@ MultiLingual Dataset Used: MultiEmo, a new benchmark dataset for multilingual se
     - Highlights model performance for different languages in the dataset.
 
 ## Acknowledgments
-[MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo)
