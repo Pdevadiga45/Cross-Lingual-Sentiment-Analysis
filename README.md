@@ -36,4 +36,4 @@ MultiLingual Dataset Used: MultiEmo, a new benchmark dataset for multilingual se
     - Highlights model performance for different languages in the dataset.
 
 ## Acknowledgments
-This project utilizes [MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo) for robust RL evaluations and is inspired by stable-baselines3 documentation and Gymnasium environments.
+[MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo)
