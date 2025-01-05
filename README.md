@@ -3,6 +3,8 @@
 MultiLingual Dataset Used: 
 [MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo)
 
+Models Used: `bert-base-multilingual-cased`, `xlm-roberta-base` and `distilbert-base-multilingual-cased`
+
 ### Code Breakdown
 
 - **Data Processing**  
