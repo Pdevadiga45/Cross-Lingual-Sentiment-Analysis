@@ -1,4 +1,4 @@
-# Cross Lingual Sentiment Analysis
+# Evaluating Multilingual Transformers for Cross-Lingual Sentiment Analysis
 
 MultiLingual Dataset Used: 
 [MultiEmo: Multilingual, Multilevel, Multidomain Sentiment Analysis Corpus of Consumer Reviews](https://github.com/CLARIN-PL/multiemo)
