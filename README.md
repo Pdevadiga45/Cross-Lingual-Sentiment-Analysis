@@ -40,3 +40,7 @@ Models Used: `bert-base-multilingual-cased`, `xlm-roberta-base` and `distilbert-
 ### Multi-level Performance Visualization
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/6af9d5cf-9575-4dbe-a6bc-e67445278b2f" />
 
+
+### Cross-Lingual Performance Visualization
+![image](https://github.com/user-attachments/assets/cd23bba4-fc5f-446e-8756-3d6f1d420d52)
+
