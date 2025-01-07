@@ -37,3 +37,6 @@ Models Used: `bert-base-multilingual-cased`, `xlm-roberta-base` and `distilbert-
   - `plot_language_performance(results):`
     - Highlights model performance for different languages in the dataset.
 
+### Multi-level Performance Visualization
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/6af9d5cf-9575-4dbe-a6bc-e67445278b2f" />
+
